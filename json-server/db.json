@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "text": "First todo",
+      "createdAt": 1703643919943,
+      "completed": false
+    },
+    {
+      "id": "2",
+      "text": "Second todo",
+      "createdAt": 1704643919943,
+      "completed": false
+    },
+    {
+      "id": "3",
+      "text": "Third todo",
+      "createdAt": 1705643919943,
+      "completed": false
+    },
+    {
+      "id": "4",
+      "text": "Todo test",
+      "createdAt": 1706650509726,
+      "completed": true
+    }
+  ]
+}
