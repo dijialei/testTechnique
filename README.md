@@ -1,3 +1,7 @@
+1.Entrez dans la console: npm install( pour installer les dépendances)
+2.Entrez dans la console: npm start ( pour démarrer le projet angular)
+3.Entrez dans la console: npm run json-server( pour démarrer json server)
+
 # TodoList
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.1.
