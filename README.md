@@ -1,6 +1,6 @@
-1.Entrez dans la console: npm install( pour installer les dépendances)
-2.Entrez dans la console: npm start ( pour démarrer le projet angular)
-3.Entrez dans la console: npm run json-server( pour démarrer json server)
+## 1.Entrez dans la console: npm install( pour installer les dépendances)
+## 2.Entrez dans la console: npm start ( pour démarrer le projet angular)
+## 3.Entrez dans la console: npm run json-server( pour démarrer json server)
 
 # TodoList
 
